@@ -63,10 +63,10 @@ bld/
 *.generated.cs
 
 # Include this line to ignore the appsettings.json file
-appsettings.json
+# appsettings.json
 
 # Ignore any appsettings.*.json file that may contain sensitive information
-appsettings.*.json
+# appsettings.*.json
 
 # Ignore secrets files
 secrets.json
